@@ -1,0 +1,4 @@
+# Encryption365 SSL Lua Client
+此项目是由环智中诚(TrustOcean)开发的Encryption365 SSL证书客户端的Lua实现。
+全部功能都基于现有的Encryption365 SSL API完成，此项目旨在探索并为各
+Encryption365用户提供更加稳定的自动化SSL证书部署方案。
