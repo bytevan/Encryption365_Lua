@@ -1,0 +1,1 @@
+docker run --name enc365_openresty -p 8080:80 -v /Users/tanglongjun/Documents/开发项目/Encryption365_Openresty:/wwwroot -t openresty/openresty
